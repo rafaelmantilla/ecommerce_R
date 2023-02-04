@@ -6,7 +6,7 @@ function App() {
   return (
    <>
    <NavBar/>
-   <ItemListContainer greeting={"Bienvenido al ecommerce del Abecedario"}/>
+   <ItemListContainer greeting={"Bienvenido al ecommerce del Abecedario, donde encontrarás todas las letraas al mejor precio."}/>
    </>
   )
 }
