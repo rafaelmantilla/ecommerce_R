@@ -1,0 +1,47 @@
+[
+    {"id":1,
+      "marca":"Chevrolet", 
+      "modelo": "Corsa",
+      "price": 1800000,
+      "category":"Auto", 
+     "image":"../../src/assets/corsa.png",
+     "stock":2,
+     "description":"Consectetur Lorem tempor laborum elit ut duis esse Lorem duis pariatur dolor eu occaecat. Minim anim laborum enim deserunt proident labore eiusmod adipisicing eu do elit mollit dolore nulla. Consequat excepteur fugiat ipsum non ea aute commodo."
+    },
+    {"id":2,
+    "marca":"Chevrolet", 
+    "modelo": "Prisma",
+    "price": 2300000,
+    "category":"Auto", 
+   "image":"../../src/assets/prisma.png",
+   "stock":1,
+   "description":"Consectetur Lorem tempor laborum elit ut duis esse Lorem duis pariatur dolor eu occaecat. Minim anim laborum enim deserunt proident labore eiusmod adipisicing eu do elit mollit dolore nulla. Consequat excepteur fugiat ipsum non ea aute commodo."
+  },
+  {"id":3,
+  "marca":"Volkswagen", 
+  "modelo": "Vento",
+  "price": 3600000,
+  "category":"Auto", 
+ "image":"../../src/assets/vento.png",
+ "stock":3,
+ "description":"Consectetur Lorem tempor laborum elit ut duis esse Lorem duis pariatur dolor eu occaecat. Minim anim laborum enim deserunt proident labore eiusmod adipisicing eu do elit mollit dolore nulla. Consequat excepteur fugiat ipsum non ea aute commodo."
+},
+{"id":4,
+"marca":"Jeep", 
+"modelo": "Patriot",
+"price": 5500000,
+"category":"Camioneta", 
+"image":"../../src/assets/patriot.png",
+"stock":3,
+"description":"Consectetur Lorem tempor laborum elit ut duis esse Lorem duis pariatur dolor eu occaecat. Minim anim laborum enim deserunt proident labore eiusmod adipisicing eu do elit mollit dolore nulla. Consequat excepteur fugiat ipsum non ea aute commodo."
+},
+{"id":5,
+"marca":"Ford", 
+"modelo": "Ecosport",
+"price": 2300000,
+"category":"Camioneta", 
+"image":"../../src/assets/ecosport.png",
+"stock":1,
+"description":"Consectetur Lorem tempor laborum elit ut duis esse Lorem duis pariatur dolor eu occaecat. Minim anim laborum enim deserunt proident labore eiusmod adipisicing eu do elit mollit dolore nulla. Consequat excepteur fugiat ipsum non ea aute commodo."
+}
+]
